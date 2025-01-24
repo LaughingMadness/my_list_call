@@ -15,10 +15,20 @@
 
 
 {"Stamina ability":{         "Jab" : [[12,1,1], ["Stamina", "None", "Hit a target for **1 damage**."]]}}
-{"Stamina ability":{"Vital strike" : [[20,1,1], ["Stamina", "None", "Description"]]}}
-{"Stamina ability":{     "Fluresh" : [[7,1,2], ["Stamina", "None", "Description"]]}}
-{"Stamina ability":{ "Cout weapon" : [[16,2,1], ["Stamina", "None", "Description"]]}}
-{"Stamina ability":{ "Quik Strike" : [[18,3,3], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{"Vital strike" : [[20,1,1], ["Stamina", "None", "On hit add a d4 bonus damage"]]}}
+{"Stamina ability":{     "Fluresh" : [[7,1,2], ["Stamina", "None", "On a miss mack a follow up attack with advantage"]]}}
+{"Stamina ability":{ "Cout weapon" : [[16,2,1], ["Stamina", "None", "Cover a weapon in a substance of your choosing"]]}}
+{"Stamina ability":{ "Quik Strike" : [[18,3,3], ["Stamina", "None", "Make an attack during another turn, ***+9 hit modifier***"]]}}
+
+{"Stamina ability":{"Called strike" : [[0,0,0], ["Stamina", "None", "Declare an ability to disable for one turn, ***+6 hit modifier***"]]}}
+{"Stamina ability":{"Cleave" : [[0,0,0], ["Stamina", "None", "Use your hit roll modified +3 to attack an **additional target**"]]}}
+{"Stamina ability":{"Brace" : [[0,0,0], ["Stamina", "None", "Forgo  your next stamina roll and block 6 +STR damage that turn"]]}}
+{"Stamina ability":{"Piercing trust" : [[0,0,0], ["Stamina", "None", "Make an extended weapon strike ignoring a targets passive armor"]]}}
+
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
 
 {"Stamina ability":{"name" : [[0,0,0], ["Stamina", "Requirement", "Description"]]}}
 {"Stamina ability":{"name" : [[0,0,0], ["Stamina", "Requirement", "Description"]]}}
