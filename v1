@@ -1,0 +1,144 @@
+{
+// Key 
+// "ability typ":{"name of Abilitie" : [int [valor per, max #, cost #], String ["Cost", "Requirement", "Description"]]},
+
+"Ability"
+:
+[
+{"Common ability":{    "Step" : [[0,0,1], ["Stamina", "None", "Move your Speed or Jump distance."]]}},
+{"Common ability":{"Interact" : [[0,0,1], ["Stamina", "None", "Use an item."]]}},
+{"Common ability":{  "Strike" : [[0,0,3], ["Stamina", "None", "Hit a target with a weapon."]]}},
+{"Common ability":{ "Harvest" : [[0,0,2], ["Stamina", "None", "Charge one spell shell."]]}},
+{"Common ability":{    "Cast" : [[0,0,1], ["Stamina", "None", "Spend spell shells to cast magic."]]}},
+{"Common ability":{   "Rally" : [[0,0,1], ["Exhaustion", "None", "Add 4 to your stamina roll"]]}},
+{"Common ability":{    "Pray" : [[0,0,1], [      "Fate", "None", "Add one to a number"]]}},
+
+
+{"Stamina ability":{         "Jab" : [[12,1,1], ["Stamina", "None", "Hit a target for **1 damage**."]]}}
+{"Stamina ability":{"Vital strike" : [[20,1,1], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{     "Fluresh" : [[7,1,2], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{ "Cout weapon" : [[16,2,1], ["Stamina", "None", "Description"]]}}
+{"Stamina ability":{ "Quik Strike" : [[18,3,3], ["Stamina", "None", "Description"]]}}
+
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "Requirement", "Description"]]}}
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "Requirement", "Description"]]}}
+
+{"ability":{"name" : [[0,0,0], ["Cost", "Requirement", "Description"]]}}
+{"ability":{"name" : [[0,0,0], ["Cost", "Requirement", "Description"]]}}
+
+],
+
+// Key 
+// "Propertie" : {"Effects" : ["","",]}
+
+"Properties"
+:
+[
+"Two-handed" : {"Effects" : ["","",]},
+"Loosed" : {"Effects" : ["","",]},
+"Thrown" : {"Effects" : ["","",]},
+"Launcher" : {"Effects" : ["","",]},
+"Untested" : {"Effects" : ["","",]},
+"Disguised" : {"Effects" : ["","",]},
+"Damaged" : {"Effects" : ["","",]},
+
+"Light" : {"Effects" : ["","",]},
+"Equilibrated" : {"Effects" : ["","",]},
+"Heavy" : {"Effects" : ["","",]},
+"Ualtra Heavy	" : {"Effects" : ["","",]},
+"Weightless" : {"Effects" : ["","",]},
+
+"Piercing" : {"Effects" : ["","",]},
+"Bludgeoning" : {"Effects" : ["","",]},
+"Slashing" : {"Effects" : ["","",]},
+"Superheated" : {"Effects" : ["","",]},
+"Supercooled" : {"Effects" : ["","",]},
+"Toxeic" : {"Effects" : ["","",]},
+"Binding" : {"Effects" : ["","",]},
+
+"Edible" : {"Effects" : ["","",]},
+"Insulated" : {"Effects" : ["","",]},
+"Fragile" : {"Effects" : ["","",]},
+"Binding" : {"Effects" : ["","",]},
+"Temporal" : {"Effects" : ["","",]},
+"Malubule" : {"Effects" : ["","",]},
+"Buoyancy" : {"Effects" : ["","",]},
+"Flammable" : {"Effects" : ["","",]},
+"Porous" : {"Effects" : ["","",]},
+"Transparent" : {"Effects" : ["","",]},
+"Biocompatible" : {"Effects" : ["","",]},
+"Voidwarped" : {"Effects" : ["","",]},
+"Bundle" : {"Effects" : ["","",]},
+"Liquid" : {"Effects" : ["","",]},
+"Powdwer" : {"Effects" : ["","",]},
+"Gaseous" : {"Effects" : ["","",]},
+"Solubility" : {"Effects" : ["","",]},
+"hydrophobic" : {"Effects" : ["","",]},
+"Piezotherm" : {"Effects" : ["","",]},
+
+"Blight" : {"Effects" : ["","",]},
+"Marked" : {"Effects" : ["","",]},
+"Explosive" : {"Effects" : ["","",]},
+"Growing" : {"Effects" : ["","",]},
+"Scattering" : {"Effects" : ["","",]},
+"Etheral" : {"Effects" : ["","",]},
+"Surging" : {"Effects" : ["","",]},
+"Condesing" : {"Effects" : ["","",]},
+"Caustic" : {"Effects" : ["","",]},
+"oxidise" : {"Effects" : ["","",]},
+"Tarnishing" : {"Effects" : ["","",]},
+"Metamorphic" : {"Effects" : ["","",]},
+"Soulwoven" : {"Effects" : ["","",]},
+],
+
+// Key 
+// {'A' : 3} : "Effect"
+
+"Beats"
+:
+[
+{'A' : 1} : "ignore terrain effects when moving" 
+{'A' : 2} : "advantage on persuasion"
+{'A' : 3} : "skill increase skill modifiers by one"
+{'A' : 4} : "interact with an ally or spend one stamina to resist"
+{'A' : 5} : "add one to advantage stack"
+
+{'B' : 1} : "move twice your speed in a straight line"
+{'B' : 2} : "advantage on attack"
+{'B' : 3} : "add 1 to your stamina roll"
+{'B' : 4} : "use a 3+ stamina ability or spend one stamina to resist"
+{'B' : 5} : "roll damage with advantage"
+
+{'C' : 1} : "hiding creatures move twice as fast"
+{'C' : 2} : "advantage on CUN, AWA, and PRE saves"
+{'C' : 3} : "refund one fate on using three"
+{'C' : 4} : "do nothing or spend one stamina to resist"
+{'C' : 5} : "disadvantage becomes mediocrity"
+
+{'D' : 1} : "on hit discont next step by 1"
+{'D' : 2} : "emphasis on skill checks"
+{'D' : 3} : "deal +3 damage on successful attacks"
+{'D' : 4} : "make noise or spend two stamina to resist"
+{'D' : 5} : "recover 1 stamina after taking exhaustion"
+
+{'E' : 1} : "on moving add +3 to active armor"
+{'E' : 2} : "ignore your exhaustion this turn"
+{'E' : 3} : "take one less exhaustion this turn"
+{'E' : 4} : "exhaust your stamina, DC5 cheek to resist for one stamina"
+{'E' : 5} : "if you roll less than 4 stamina set it to 5"
+
+{'F' : 1} : "jump distance is doubled"
+{'F' : 2} : "advantage on CON, STR, and DEX saves"
+{'F' : 3} : "spells are discounted one spell shell"
+{'F' : 4} : "cast a spell or spend one stamina to resist"
+{'F' : 5} : "increase your speed by 3 ft"
+
+{'G' : 1} : "tripel speed if no attack is taken"
+{'G' : 2} : "addvantage on overcharging spell shells"
+{'G' : 3} : "3+ stamina cost actions are discounted by 1"
+{'G' : 4} : "harvest a spell shell or spend one stamina to resist"
+{'G' : 5} : "increase your jump by 2 ft"
+
+],
+
+}
