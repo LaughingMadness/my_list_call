@@ -1,0 +1,69 @@
+// Key 
+// "ability typ":{"name of Abilitie" : [int [valor per, max #, cost #], String ["Cost", "Requirement", "Description"]]},
+
+"Ability"
+:
+[
+// Racial traits
+{"Common ability":{    "Step" : [[0,0,1], ["Stamina", "None", "Move your Speed or Jump distance."]]}},
+{"Common ability":{"Interact" : [[0,0,1], ["Stamina", "None", "Use an item."]]}},
+{"Common ability":{  "Strike" : [[0,0,3], ["Stamina", "None", "Hit a target with a weapon."]]}},
+{"Common ability":{ "Harvest" : [[0,0,2], ["Stamina", "None", "Charge one spell shell."]]}},
+{"Common ability":{    "Cast" : [[0,0,1], ["Stamina", "None", "Spend spell shells to cast magic."]]}},
+{"Common ability":{   "Rally" : [[0,0,1], ["Exhaustion", "None", "Add 4 to your stamina roll"]]}},
+{"Common ability":{    "Pray" : [[0,0,1], [      "Fate", "None", "Add one to a number"]]}},
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Utilety
+{"Stamina ability":{ "Cout weapon" : [[16,2,1], ["Stamina", "None", "Cover a weapon in a substance of your choosing"]]}}
+{"Stamina ability":{       "Brace" : [[0,0,0], ["Stamina", "None", "Forgo  your next stamina roll and block 6 +STR damage that turn"]]}}
+{"Stamina ability":{ "Deep breath" : [[0,0,0], ["Stamina", "None", "Doubles the time you can spend in an “Airless environment”"]]}}
+
+// Melee wepons
+{"Stamina ability":{           "Jab" : [[12,1,1], ["Stamina", "None", "Hit a target for **1 damage**."]]}}
+{"Stamina ability":{  "Vital strike" : [[20,1,1], ["Stamina", "None", "On hit add a d4 bonus damage"]]}}
+{"Stamina ability":{   "Quik Strike" : [[18,3,3], ["Stamina", "None", "Make an attack during another turn, ***+9 hit modifier***"]]}}
+{"Stamina ability":{ "Called strike" : [[0,0,0], ["Stamina", "None", "Declare an ability to disable for one turn, ***+6 hit modifier***"]]}}
+{"Stamina ability":{        "Cleave" : [[0,0,0], ["Stamina", "None", "Use your hit roll modified +3 to attack an **additional target**"]]}}
+{"Stamina ability":{       "Fluresh" : [[7,1,2], ["Stamina", "None", "On a miss mack a follow up attack with advantage"]]}}
+{"Stamina ability":{"Piercing trust" : [[0,0,0], ["Stamina", "None", "Make an extended weapon strike ignoring a targets passive armor"]]}}
+{"Stamina ability":{"Heavy strike" : [[0,0,0], ["Stamina", "None", "Use a heavy weapon to strike a target Stunning them for one turn"]]}}
+
+// Ranged wepons
+{"Stamina ability":{        "Archer" : [[0,0,0], ["Stamina", "None", "When making ranged attacks with loosed weapons **double** your sense range "]]}}
+{"Stamina ability":{     "Long Shot" : [[0,0,0], ["Stamina", "None", "Add **50 ft** to the range of your next loose weapon attack"]]}}
+{"Stamina ability":{   "Called Shot" : [[0,0,0], ["Stamina", "None", "Declare one of the targets abilits to disable for one turn"]]}}
+{"Stamina ability":{  "Pinning Shot" : [[0,0,0], ["Stamina", "None", "Prevent the target from taking the step action **once**"]]}}
+{"Stamina ability":{     "Quik Shot" : [[0,0,0], ["Stamina", "None", "Loose an attack during another turn, +6 hit modifier"]]}}
+{"Stamina ability":{    "Power Shot" : [[0,0,0], ["Stamina", "None", "Roll hit at disadvantage and add **2 damage** on hit"]]}}
+{"Stamina ability":{     "Twin Shot" : [[0,0,0], ["Stamina", "None", "Loose **two** independently targeted projectiles"]]}}
+
+{"Stamina ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Utilety
+{"Spell Shell ability":{       "Blink" : [[0,0,0], ["Spell Shell", "None", "Appear in an unoccupied title within ~60 Ft"]]}}
+{"Spell Shell ability":{     "Mending" : [[0,0,0], ["Spell Shell", "None", "Touch a target and heal 3 hp, or repair an object"]]}}
+{"Spell Shell ability":{        "Ecoe" : [[0,0,0], ["Spell Shell", "None", "Project a quiet sound anywhere you can see"]]}}
+{"Spell Shell ability":{        "Grow" : [[0,0,0], ["Spell Shell", "None", "Increase the size of a plant by one for 6 turns"]]}}
+{"Spell Shell ability":{     "Message" : [[0,0,0], ["Spell Shell", "None", "Cast your voice to a well defined marking you previously made"]]}}
+{"Spell Shell ability":{      "Mimmic" : [[0,0,0], ["Spell Shell", "None", "Lightly alter your appearance and voice for **1 turn(s)**"]]}}
+
+{"Spell Shell ability":{   "Truenorth" : [[0,0,0], ["Spell Shell", "None", "A dropped object falls true-north"]]}}
+
+
+// Melee wepons
+{"Spell Shell ability":{"Enchanted Strike" : [[0,0,0], ["Spell Shell", "None", "Imbue X Spell Shells to extend the reach of your strike by **3 ft**"]]}}
+{"Spell Shell ability":{    "Freeze water" : [[0,0,0], ["Spell Shell", "None", "Freeze one pound of water per spell shell or inflict a d4 damage"]]}}
+
+// Ranged wepons
+{"Spell Shell ability":{  "Enchanted Shot" : [[0,0,0], ["Spell Shell", "None", "Imbue your shot with a volley of false projectiles, granting it advantage to hit"]]}}
+
+
+{"Spell Shell ability":{"name" : [[0,0,0], ["Spell Shell", "None", "Description"]]}}
+{"Spell Shell ability":{"name" : [[0,0,0], ["Spell Shell", "None", "Description"]]}}
+{"Spell Shell ability":{"name" : [[0,0,0], ["Spell Shell", "None", "Description"]]}}
+
+],
