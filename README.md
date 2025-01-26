@@ -3,10 +3,12 @@ This is jut my hoby so if you want to add some cool items feel free
   if i ever get arond to making a dart app.
 
 |  Char  |   Tag   |    Description    |
-|--------|---------|-------------------|
-|    M   |  Magic  |  This is a spell  |    
-|    T   |Temporary|   Lasts 3 turns   |      
-|    +   | Modifier|   Affects a stat  |      
-|    S   |  Size   |   The items size  |
-|    W   |  Weight |  The item weight  |
-|    A   |  Apply  |  Applys an effect |
+|----|---|---------|-------------------|
+|  M | p |  Magic  |  This is a spell  |    
+|  T | o |Temporary|   Lasts 3 turns   |      
+|  + | l | Modifier|   Affects a stat  |      
+|  S | k |  Size   |   The items size  |
+|  W | s |  Weight |  The item weight  |
+|  A | y |  Apply  |  Applys an effect |
+
+"char","Disply name",
