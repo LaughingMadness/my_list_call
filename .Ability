@@ -14,9 +14,9 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Passive
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"S,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"S,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"S,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
 
 // Utilety
 {"S,U":{ "Cout weapon" : [[16,2,1], ["Stamina", "None", "Cover a weapon in a substance of your choosing"]]}}
@@ -42,14 +42,14 @@
 {"S,R":{    "Power Shot" : [[0,0,0], ["Stamina", "None", "Roll hit at disadvantage and add **2 damage** on hit"]]}}
 {"S,R":{     "Twin Shot" : [[0,0,0], ["Stamina", "None", "Loose **two** independently targeted projectiles"]]}}
 
-{"ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
+// {"ability":{"name" : [[0,0,0], ["Stamina", "None", "Description"]]}}
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Passive
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"SS,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"SS,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
+{"SS,P":{"name" : [[0,0,0], ["None", "None", "Description"]]}}
 
 // Utilety
 {"SS,U":{       "Blink" : [[0,0,0], ["Spell Shell", "None", "Appear in an unoccupied title within ~60 Ft"]]}}
@@ -72,25 +72,25 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Passive
-{"ability":{    "Blessed" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{      "Fated" : [[0,0,0], ["None", "None", "Description"]]}}
-{"ability":{"Chaos fated" : [[0,0,0], ["None", "None", "Description"]]}}
+{"F,P":{    "Blessed" : [[0,0,0], ["None", "None", "Description"]]}}
+{"F,P":{      "Fated" : [[0,0,0], ["None", "None", "Description"]]}}
+{"F,P":{"Chaos fated" : [[0,0,0], ["None", "None", "Description"]]}}
 
 // Utilety
-{"ability":{        "shifter" : [[0,0,0], ["Fate", "None", "Take on one effect of a soul"]]}}
-{"ability":{         "legacy" : [[0,0,0], ["Fate", "None", "Temporarily tripel the effect of a soul"]]}}
-{"ability":{        "commune" : [[0,0,0], ["Fate", "None", "Speak with the souls that cling to you"]]}}
-{"ability":{        "Recover" : [[0,0,0], ["Fate", "None", "Reduce your **Exhaustion** by **2**"]]}}
-{"ability":{         "Embody" : [[0,0,0], ["Fate", "None", "Force a soul into an object"]]}}
-{"ability":{ "Soul Summoning" : [[0,0,0], ["Fate", "None", "Call a soul that meets a criteria and capcher it"]]}}
-{"ability":{        "Glimpse" : [[0,0,0], ["Fate", "None", "You can trade Fate for current meta knowledge of comparable value"]]}}
-{"ability":{           "Pact" : [[0,0,0], ["Fate", "None", "Set spell shells to  (7)"]]}}
-{"ability":{     "Unyielding" : [[0,0,0], ["Fate", "None", "Recover **your constitution** as hit points"]]}}
-{"ability":{      "Bind item" : [[0,0,0], ["Fate", "None", "Declare **an item** that will never be far for the remainder of the day"]]}}
-{"ability":{    "Divine call" : [[0,0,0], ["Fate", "None", "Call of the gods to **stun** the faithless"]]}}
-{"ability":{    "Swap places" : [[0,0,0], ["Fate", "None", "Trade positions with an allied creature during either creatures turn"]]}}
-{"ability":{           "Rage" : [[0,0,0], ["Fate", "None", "Ignore your exhaustion for **3 turn**"]]}}
-{"ability":{           "Geas" : [[0,0,0], ["Fate", "None", "Impose a simple promise between two parties that alerts the other party if its broken"]]}}
+{"F,U":{        "shifter" : [[0,0,0], ["Fate", "None", "Take on one effect of a soul"]]}}
+{"F,U":{         "legacy" : [[0,0,0], ["Fate", "None", "Temporarily tripel the effect of a soul"]]}}
+{"F,U":{        "commune" : [[0,0,0], ["Fate", "None", "Speak with the souls that cling to you"]]}}
+{"F,U":{        "Recover" : [[0,0,0], ["Fate", "None", "Reduce your **Exhaustion** by **2**"]]}}
+{"F,U":{         "Embody" : [[0,0,0], ["Fate", "None", "Force a soul into an object"]]}}
+{"F,U":{ "Soul Summoning" : [[0,0,0], ["Fate", "None", "Call a soul that meets a criteria and capcher it"]]}}
+{"F,U":{        "Glimpse" : [[0,0,0], ["Fate", "None", "You can trade Fate for current meta knowledge of comparable value"]]}}
+{"F,U":{           "Pact" : [[0,0,0], ["Fate", "None", "Set spell shells to  (7)"]]}}
+{"F,U":{     "Unyielding" : [[0,0,0], ["Fate", "None", "Recover **your constitution** as hit points"]]}}
+{"F,U":{      "Bind item" : [[0,0,0], ["Fate", "None", "Declare **an item** that will never be far for the remainder of the day"]]}}
+{"F,U":{    "Divine call" : [[0,0,0], ["Fate", "None", "Call of the gods to **stun** the faithless"]]}}
+{"F,U":{    "Swap places" : [[0,0,0], ["Fate", "None", "Trade positions with an allied creature during either creatures turn"]]}}
+{"F,U":{           "Rage" : [[0,0,0], ["Fate", "None", "Ignore your exhaustion for **3 turn**"]]}}
+{"F,U":{           "Geas" : [[0,0,0], ["Fate", "None", "Impose a simple promise between two parties that alerts the other party if its broken"]]}}
 
 // Melee wepons
 
@@ -101,13 +101,13 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Passive
-{"ability":{"Athletic" : [[0,0,0], ["Exhaustion", "None", "The first time you take exhaustion between extended rests recover one"]]}}
-{"ability":{"Tierles" : [[0,0,0], ["Exhaustion", "None", "You don’t pass-out until 16 exhaustion"]]}}
+{"E,P":{"Athletic" : [[0,0,0], ["Exhaustion", "None", "The first time you take exhaustion between extended rests recover one"]]}}
+{"E,P":{"Tierles" : [[0,0,0], ["Exhaustion", "None", "You don’t pass-out until 16 exhaustion"]]}}
 
 // Utilety
-{"ability":{  "Impact" : [[0,0,0], ["Exhaustion", "None", "Your next successful hit deals max damage"]]}}
-{"ability":{"Footwork" : [[0,0,0], ["Exhaustion", "None", "You can't be targeted until your next turn"]]}}
-{"ability":{   "Helar" : [[0,0,0], ["Exhaustion", "None", "Touch a target to heal one point of HP for each point of your cunning"]]}}
+{"E,U":{  "Impact" : [[0,0,0], ["Exhaustion", "None", "Your next successful hit deals max damage"]]}}
+{"E,U":{"Footwork" : [[0,0,0], ["Exhaustion", "None", "You can't be targeted until your next turn"]]}}
+{"E,U":{   "Helar" : [[0,0,0], ["Exhaustion", "None", "Touch a target to heal one point of HP for each point of your cunning"]]}}
 
 // Melee wepons
 
