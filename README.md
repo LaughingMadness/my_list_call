@@ -6,3 +6,6 @@
 |    S   |  Size   |   The items size  |
 |    W   |  Weight |  The item weight  |
 |    A   |  Apply  |  Applys an effect |
+
+/column
+hi
