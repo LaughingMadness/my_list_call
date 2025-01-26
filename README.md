@@ -1,8 +1,8 @@
-|   Tag   |    Description    |
-|---------|-------------------|
-|  Magic  |  This is a spell  |
-|Temporary|   Lasts 3 turns   |
-| Modifier|   Affects a stat  |
-|  Size   |   The items size  |
-|  Weight |  The item weight  |
-|  Apply  |  Applys an effect |
+|  Char  |   Tag   |    Description    |
+|--------|---------|-------------------|
+|    M   |  Magic  |  This is a spell  |
+|    T   |Temporary|   Lasts 3 turns   |
+|    +   | Modifier|   Affects a stat  |
+|    S   |  Size   |   The items size  |
+|    W   |  Weight |  The item weight  |
+|    A   |  Apply  |  Applys an effect |
