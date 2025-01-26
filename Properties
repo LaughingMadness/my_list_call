@@ -13,7 +13,7 @@
           "Light" : {"Add dexterity to damage" : ["","",]},
    "Equilibrated" : {"Add +1 to stamina rolls" : ["","",]},
           "Heavy" : {"Add strength to hit" : ["","",]},
-  "Ualtra Heavy	" : {"Requires training" : ["","",]},
+   "Ualtra Heavy" : {"Requires training" : ["","",]},
      "Weightless" : {"To light to bludgeon" : ["","",]},
 
       "Piercing" : {"Add +1 Piercing dmag." : ["","",]},
@@ -55,7 +55,7 @@
     "Scattering" : {"On contact disrupt spell shells" : ["","",]},
        "Etheral" : {"Creat a Temporal object" : ["","",]},
        "Surging" : {"Forcefully charge X spell shells" : ["","",]},
-     "Condesing" : {"Effects" : ["","",]},
+     "Clensing" : {"Purifiers contacting liquids" : ["","",]},
        "Caustic" : {"Produsees toxic air" : ["","",]},
        "oxidise" : {"Produsees flammable air" : ["","",]},
     "Tarnishing" : {"Provents object effects once" : ["","",]},
