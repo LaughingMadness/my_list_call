@@ -1,0 +1,40 @@
+{
+"Element"
+:
+[
+     "Water" : {"Remove one turn of lingering per spell shell used on hit" : ["","",]},
+     "Earth" : {"Your creations gain 3 hp per spell shell" : ["","",]},
+      "Fire" : {"Inflicts burning saves, modified by one quarter the number of spell shells invested" : ["","",]},
+       "Air" : {"Your creations are difficult, advantage on hit or hide checks" : ["","",]},
+     "Force" : {"Pushes a target up to 1 tile  per spell shell on hit" : ["","",]},
+      "Acid" : {"Deal 1 damage per turn, lasts one turn per spell shell used" : ["","",]},
+     "Light" : {"Increase range by 3ft for every spell shells used" : ["","",]},
+      "Dark" : {"Multiply  size of the spell by 1/3 the spell shells used and converts damage to astral" : ["","",]},
+],
+
+"Pattern"
+:
+[
+     "Arrow" : {"Create a piercing, loosed weapon" : ["","",]},
+     "Spark" : {"Create smallest possible amount of something" : ["","",]},
+ "Explosion" : {"Impact with a radius of 1 ft per 3 spell shells" : ["","",]},
+   "Trinket" : {"Create a size 0 object of your choosing" : ["","",]},
+    "Volume" : {"Create a size 3 or smaller shape of your choosing" : ["","",]},
+],
+
+"Path"
+:
+[
+         "Self" : {"Target your innermost spell shell" : ["","",]},
+        "Touch" : {"Target your outermost spell shell" : ["","",]},
+         "Mark" : {"Create a temporary signal that will trigger on contact" : ["","",]},
+"Parabolic arc" : {"Target a path with a uniform curve" : ["","",]},
+        "Liner" : {"Target a straight line" : ["","",]},
+ "Oscillating " : {"Target a path with two uniform curves" : ["","",]},
+       "Guided" : {"Command your spell to move to a point away from its current position" : ["","",]},
+    "Lingering" : {"Extend the derashen of a spell by one turn" : ["","",]},
+      "Charged" : {"Target an additional creature or object along the spell path" : ["","",]},
+         "Cone" : {"target a cone twice its length wide" : ["","",]},
+],
+
+}
