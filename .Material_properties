@@ -55,7 +55,7 @@
     "Scattering" : {"On contact disrupt spell shells" : ["","",]},
        "Etheral" : {"Creat a Temporal object" : ["","",]},
        "Surging" : {"Forcefully charge X spell shells" : ["","",]},
-     "Clensing" : {"Purifiers contacting liquids" : ["","",]},
+      "Clensing" : {"Purifiers contacting liquids" : ["","",]},
        "Caustic" : {"Produsees toxic air" : ["","",]},
        "oxidise" : {"Produsees flammable air" : ["","",]},
     "Tarnishing" : {"Provents object effects once" : ["","",]},
