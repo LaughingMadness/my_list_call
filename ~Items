@@ -1,0 +1,36 @@
+[
+// key
+// {"Name"}:int : ["Descrip", "Propertys", "Propertys", "Propertys"],
+
+// Trinket
+{"Cursed demijohn"}:int : [
+"A {x : "full", "mostly full", "partyl full", "empty"} 3 liter demijohn cursed to turn wine to to water by a powerful caster",
+"Light", "Short", "Reservoir", "Clensing"],
+
+// Mundane
+{"New Backpack"}:int : [
+"A well crafted dark leather bag embroidered with a vibrant red thread; Containing {x} items.",
+"Light", "Half", "Soft", "Hydrophobic"],
+
+{"Old Canvas Tent"}:int : [
+"A weather worn canvas tarp, but unlikely to fail any time soon.",
+"Heavy", "Extended", "Half", "Hydrophobic"],
+
+// Weapons melee
+{"Brass Knuckles"}:int : [
+"Forged brass, these knuckles are compact yet weighty, designed to enhance the impact of every punch.",
+"Light", "Short", "Bludgeoning", "Malubule"],
+
+// Weapons ranged
+{"Hunters arrow"}:int : [
+"Carved from a young pine it’s shaft sturdy, flechings true, and the tip surprisingly sharp.",
+"Light", "Half", "Loosed", "Piercing"],
+
+
+
+/////////////////////////////////////////////////
+{"Name"}:int : [
+"Descrip",
+"Light", "Short", "Propertys", "Propertys"],
+/////////////////////////////////////////////////
+]
