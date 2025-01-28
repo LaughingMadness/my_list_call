@@ -22,7 +22,7 @@
    "Superheated" : {"Chance to burn on hit" : ["","",]},
    "Supercooled" : {"Chance to burn on hit" : ["","",]},
         "Toxeic" : {"Chance to poison on hit" : ["","",]},
-       "Binding" : {"Chance to tangle on hit" : ["","",]},
+       "Abrasive" : {"On hiting add 1d4 damage" : ["","",]},
 
         "Edible" : {"You can eat this" : ["","",]},
      "Insulated" : {"Prtects agenst burn’s" : ["","",]},
@@ -38,7 +38,7 @@
     "Voidwarped" : {"This item interacts with other plans" : ["","",]},
         "Bundle" : {"A collection of ... items" : ["","",]},
           "Soft" : {"Reduce hit damage by half" : ["","",]},
-          "Hard" : {"Ignore damage less than 4" : ["","",]},
+          "Hard" : {"Ignore 4 or less damage" : ["","",]},
    "Conductive " : {"Extends on tuch effects" : ["","",]},
        "Attach " : {"Join to a surface" : ["","",]},
         "Liquid" : {"Creates a surface if allowed to" : ["","",]},
