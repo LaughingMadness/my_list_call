@@ -13,14 +13,17 @@ This is jut my hoby so if you want to add some cool items feel free
 
 "char","Disply name",
 
+|                    |                                     |      |
+|--------------------|-------------------------------------|------|
+|            "Short" | "Thrust 1d4, Slash 1d6, Bash 1d6",  |1 foot|
+|             "Half" | "Thrust 1d4, Slash 1d6, Bash 1d6",  |3 foot|
+|             "Long" | "Thrust 2d4, Slash 2d6, Bash 2d6",  |6 foot|
+|         "Extended" | "Thrust 2d4, Slash 2d6, Bash 2d6",  |9 foot|
+|           "Ranged" | "Thrust 1d4, Slash 1d6, Bash 1d6",  |  Na  |
 
-            "Short" : "Thrust 1d4, Slash 1d6, Bash 1d6",
-             "Half" : "Thrust 1d4, Slash 1d6, Bash 1d6",
-             "Long" : "Thrust 2d4, Slash 2d6, Bash 2d6",
-         "Extended" : "Thrust 2d4, Slash 2d6, Bash 2d6",
-           "Ranged" : "Thrust 1d4, Slash 1d6, Bash 1d6",
-
-            "Light" : "thin or narrow",
-            "Heavy" : "thick or wide", 
-     "Ualtra Heavy" : "thick and wide",
-       "Weightless" : "often enchanted",
+|                    |                     | 
+|--------------------|---------------------|
+|            "Light" | "thin or narrow",   |      |
+|            "Heavy" | "thick or wide",    |      |
+|     "Ualtra Heavy" | "thick and wide",   |      |
+|       "Weightless" | "often enchanted",  |      |
