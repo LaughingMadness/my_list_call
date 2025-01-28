@@ -2,6 +2,7 @@
 // "Propertie" : {"Descripshen" : ["tags","",]}
 
 [
+
      "Two-handed" : {"Requires two hands to strike" : ["","",]},
          "Loosed" : {"Requires two hands to strike" : ["","",]},
          "Thrown" : {"When loosed, +25 tiles range" : ["","",]},
@@ -32,7 +33,7 @@
       "Malubule" : {"Resist bludgeoning damage" : ["","",]},
       "Buoyancy" : {"Floats on …" : ["","",]},
      "Flammable" : {"Destroyed by hot objects" : ["","",]},
-        "Porous" : {"Grows heavy if exposed to liquid" : ["","",]},
+    "Reservoir " : {"Grows heavy if exposed to liquid" : ["","",]},
    "Transparent" : {"Resists perception checks" : ["","",]},
  "Biocompatible" : {"Prolonged exposure is Non-toxic" : ["","",]},
     "Voidwarped" : {"This item interacts with other plans" : ["","",]},
@@ -59,6 +60,6 @@
        "Caustic" : {"Produsees toxic air" : ["","",]},
        "oxidise" : {"Produsees flammable air" : ["","",]},
     "Tarnishing" : {"Provents object effects once" : ["","",]},
-   "Metamorphic" : {"Sprovents object effects once" : ["","",]},
+   "Metamorphic" : {"Circumvents" : ["","",]},<---<<<
      "Soulwoven" : {"Bonds to the essence of a soul" : ["","",]},
 ],
