@@ -22,5 +22,5 @@ This is jut my hoby so if you want to add some cool items feel free
 
           "Light" : "thin or narrow",
           "Heavy" : "thick or wide", 
-   "Ualtra Heavy" : "thick and wide",
-     "Weightless" : "often enchanted",
+     "Ualtra Heavy" : "thick and wide",
+       "Weightless" : "often enchanted",
