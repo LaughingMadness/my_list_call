@@ -46,7 +46,7 @@
        "Powdwer" : {"Stics to a serfece" : ["","",]},
        "Gaseous" : {"Atempts to fill its contaner" : ["","",]},
     "Solubility" : {"Dissolves on contact with water" : ["","",]},
-   "hydrophobic" : {"Lingering effects resist removal	" : ["","",]},
+   "hydrophobic" : {"Resist lingering effects" : ["","",]},
     "Piezotherm" : {"Becomes hot when hit" : ["","",]},
 
         "Blight" : {"Burns on contact" : ["","",]},
