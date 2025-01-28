@@ -46,7 +46,7 @@
        "Powdwer" : {"Stics to a serfece" : ["","",]},
        "Gaseous" : {"Atempts to fill its contaner" : ["","",]},
     "Solubility" : {"Dissolves on contact with water" : ["","",]},
-   "hydrophobic" : {"Resist lingering effects" : ["","",]},
+   "Hydrophobic" : {"Resist lingering effects" : ["","",]},
     "Piezotherm" : {"Becomes hot when hit" : ["","",]},
 
         "Blight" : {"Burns on contact" : ["","",]},
@@ -58,7 +58,7 @@
        "Surging" : {"Forcefully charge X spell shells" : ["","",]},
       "Clensing" : {"Purifiers contacting liquids" : ["","",]},
        "Caustic" : {"Produsees toxic air" : ["","",]},
-       "oxidise" : {"Produsees flammable air" : ["","",]},
+       "Oxidise" : {"Produsees flammable air" : ["","",]},
     "Tarnishing" : {"Provents object effects once" : ["","",]},
    "Metamorphic" : {"Circumvents" : ["","",]},<---<<<
      "Soulwoven" : {"Bonds to the essence of a soul" : ["","",]},
