@@ -13,6 +13,7 @@ This is jut my hoby so if you want to add some cool items feel free
 
 "char","Disply name",
 
+{
           "Short" : "Thrust 1d4, Slash 1d6, Bash 1d6",
            "Half" : "Thrust 1d4, Slash 1d6, Bash 1d6",
            "Long" : "Thrust 2d4, Slash 2d6, Bash 2d6",
@@ -22,5 +23,5 @@ This is jut my hoby so if you want to add some cool items feel free
           "Light" : "thin or narrow",
           "Heavy" : "thick or wide",
    "Ualtra Heavy" : "thick and wide",
-     "Weightless" : "often enchanted",
-     
+     "Weightless" : "often enchanted",    
+}
