@@ -60,6 +60,6 @@
        "Caustic" : {"Produsees toxic air" : ["","",]},
        "Oxidise" : {"Produsees flammable air" : ["","",]},
     "Tarnishing" : {"Provents object effects once" : ["","",]},
-   "Metamorphic" : {"Circumvents" : ["","",]},<---<<<
+     "Oathsworn" : {"Returns when its name is spoken" : ["","",]},<---<<<
      "Soulwoven" : {"Bonds to the essence of a soul" : ["","",]},
 ],
